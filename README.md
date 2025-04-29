@@ -6,6 +6,7 @@ Sensor kelembapan tanah YL-69
 Modul pembanding YL-38    
 Arduino (Uno, Mega, Nano, ESP32, dll)    
 Kabel jumper    
+buzzer    
 Breadboard (opsional)    
 
 🔌 Pinout    
