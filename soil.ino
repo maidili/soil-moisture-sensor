@@ -19,10 +19,10 @@
 //====================================================================================================================yg diatas untuk analog yg dibawah untuk digital
 
 // int bzzr = 13;
-// int sensorPin = 7; //untuk esp32 ganti dengan pin 12
+// const int sensorPin = 7; //untuk esp32 ganti dengan pin 12
 
 // void setup(){
-//   Serial.begin(9600) //untuk esp32 baud rate nya pakai 115200
+//   Serial.begin(9600); //untuk esp32 baud rate nya pakai 115200
 //   pinMode (bzzr, OUTPUT);
 //   pinMode (sensorPin, INPUT);
 // }
